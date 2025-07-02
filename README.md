@@ -8,3 +8,7 @@ A simple web app to detect SMS spam using a machine learning model, built with S
 2. Install requirements:
    pip install -r requirements.txt
 3. Run the app:
+
+## App Screenshot
+
+![SMS Spam Detector Screenshot](screenshot.png)
